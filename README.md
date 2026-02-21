@@ -18,17 +18,17 @@ order_date
 amount
 
 # Concepts Practiced
-SUM()
-COUNT()
-AVG()
-GROUP BY
-HAVING
-ORDER BY
-LIMIT / OFFSET
-JOIN
-LEFT JOIN
-Handling NULL
-Ranking logic
+SUM(),
+COUNT(),
+AVG(),
+GROUP BY,
+HAVING,
+ORDER BY,
+LIMIT / OFFSET,
+JOIN,
+LEFT JOIN,
+Handling NULL,
+Ranking logic,
 Time-based grouping (strftime())
 
 # Questions Solved
